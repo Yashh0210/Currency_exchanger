@@ -1,7 +1,7 @@
 🪙 Currency Exchanger
 A simple and responsive web app that allows users to convert between different currencies using real-time exchange rates. Built using  HTML, CSS, and JavaScript, and powered by a free public API.
  
-# Real-time currency conversion  . 
+# Real-time Currency Conversion  . 
 
 # Supports multiple currencies.
 
